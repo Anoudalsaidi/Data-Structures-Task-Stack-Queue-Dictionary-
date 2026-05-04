@@ -80,7 +80,7 @@ namespace StudentServiceCenter
             }
         }
 
-        // 3. Remove Student
+        // 3. Remove Students
         static void RemoveStudent()
         {
             Console.Write("Enter ID: ");
