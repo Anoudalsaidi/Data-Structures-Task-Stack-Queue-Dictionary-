@@ -117,7 +117,7 @@ namespace StudentServiceCenter
             Console.WriteLine("Added to queue.");
         }
 
-        // 6. Serve Student
+        // 6. Serve Students
         static void ServeStudent()
         {
             if (queue.Count == 0)
