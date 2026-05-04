@@ -62,7 +62,7 @@ namespace StudentServiceCenter
             Console.WriteLine("Student added.");
         }
 
-        // 2. Update Student
+        // 2. Update Students
         static void UpdateStudent()
         {
             Console.Write("Enter ID: ");
