@@ -101,7 +101,7 @@ namespace StudentServiceCenter
             }
         }
 
-        // 5. Join Queue
+        // 5. Joins Queue
         static void JoinQueue()
         {
             Console.Write("Enter Student ID: ");
