@@ -43,7 +43,7 @@ namespace StudentServiceCenter
             }
         }
 
-        // 1. Add Student
+        // 1. Add Students
         static void AddStudent()
         {
             Console.Write("Enter ID: ");
